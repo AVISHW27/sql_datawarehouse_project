@@ -12,7 +12,8 @@ We use the **Medallion Architecture**, which organizes data into three simple st
 2. **Silver Layer (Cleaned Data)**: We fix errors, remove duplicates, and format the data so it is consistent and reliable.
 3. **Gold Layer (Business Ready)**: We organize the data into "Star Schemas" (Fact and Dimension tables). This layer is optimized specifically for fast reporting and dashboards.
 
-<img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/70b24ca5-e67d-42a1-98c4-cbe4194e885d" />
+<img width="1277" height="662" alt="image" src="https://github.com/user-attachments/assets/4c9a9dff-147e-4712-ba31-61a85a830935" />
+
 
 ---
 
